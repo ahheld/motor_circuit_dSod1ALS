@@ -1,0 +1,27 @@
+function letter = num2let(x1)
+if x1 == 1; letter = 'a'; end
+if x1 == 2; letter = 'b'; end
+if x1 == 3; letter = 'c'; end
+if x1 == 4; letter = 'd'; end
+if x1 == 5; letter = 'e'; end
+if x1 == 6; letter = 'f'; end
+if x1 == 7; letter = 'g'; end
+if x1 == 8; letter = 'h'; end
+if x1 == 9; letter = 'i'; end
+if x1 == 10; letter = 'j'; end
+if x1 == 11; letter = 'k'; end
+if x1 == 12; letter = 'l'; end
+if x1 == 13; letter = 'm'; end
+if x1 == 14; letter = 'n'; end
+if x1 == 15; letter = 'o'; end
+if x1 == 16; letter = 'p'; end
+if x1 == 17; letter = 'q'; end
+if x1 == 18; letter = 'r'; end
+if x1 == 19; letter = 's'; end
+if x1 == 20; letter = 't'; end
+if x1 == 21; letter = 'u'; end
+if x1 == 22; letter = 'v'; end
+if x1 == 23; letter = 'w'; end
+if x1 == 24; letter = 'x'; end
+if x1 == 25; letter = 'y'; end
+if x1 == 26; letter = 'z'; end
